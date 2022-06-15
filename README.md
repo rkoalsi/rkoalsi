@@ -5,8 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rkoalsi&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 🏫 Second Year Student at Saint Andrews College
-- 🏋️ Intern at Mapout
-- 🚀 Full Stack Developer
+- 🏫 Third Year Student at Saint Andrews College
+- 🚀 Full Stack Web3 Developer
 
 <br>
