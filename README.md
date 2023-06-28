@@ -5,7 +5,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rkoalsi&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
-- 🏫 Third Year Student at Saint Andrews College
-- 🚀 Full Stack Web3 Developer
+- 🏫 Bsc. IT Graduate from Mumbai University
+- 🚀 Full Stack Web/Application Developer
+- Looking to change the world one PR at a time.
 
 <br>
